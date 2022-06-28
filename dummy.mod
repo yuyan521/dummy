@@ -1,0 +1,2 @@
+/home/cxy/dummy.o
+
